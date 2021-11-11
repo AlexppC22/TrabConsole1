@@ -1,0 +1,1 @@
+Este arquivo representa o primeiro push feito git.
