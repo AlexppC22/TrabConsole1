@@ -1,0 +1,1 @@
+Este arquivo demonstra um merge com conflito na branch main.
