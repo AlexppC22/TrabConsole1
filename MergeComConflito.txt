@@ -1,1 +1,1 @@
-Este arquivo demonstra um merge com conflito na branch main.
+Esse arquivo mostra um arquivo que irá conflitar com outro de mesmo nome no branch principal.
